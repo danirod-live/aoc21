@@ -20,10 +20,11 @@ I am using Ruby. Not the fastest language but I like it a lot and thus it makes 
 
 * You can early return from a map block using `next n` to go to the next iteration. `next` accepts a parameter.
 
-Problem 06 was solved in Golang. It is the same algorithm but in Ruby it was very slow so I decided to translate it into a second language that could be more efficient, and the chat proposed to use Golang.
+Some problems were solved in Golang, when it made sense - such as Ruby being slower than acceptable. First time this happened, I decidsed to translate the algorithm to a different language and the chat proposed to rewrite it in Golang. Then the next time it happened, I used Golang again to re-use the read file + cast to int logic.
+
+* Problem 06 - it is faster in Go
+* Problem 14 - because apparently solving a dijkstra with 250000 edges is too much for Ruby.
 
 Problem 07 was solved in Microsoft Excel and thus the folder 07 contains an XLSX file.
-
-Problem 15 was also solved in Golang because apparently solving a dijkstra with 250000 edges is too much for Ruby.
 
 I would want to solve them in Haskell but I could not care less about monads, so I am sorry.
