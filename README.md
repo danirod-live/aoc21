@@ -24,4 +24,6 @@ Problem 06 was solved in Golang. It is the same algorithm but in Ruby it was ver
 
 Problem 07 was solved in Microsoft Excel and thus the folder 07 contains an XLSX file.
 
+Problem 15 was also solved in Golang because apparently solving a dijkstra with 250000 edges is too much for Ruby.
+
 I would want to solve them in Haskell but I could not care less about monads, so I am sorry.
