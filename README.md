@@ -23,7 +23,8 @@ I am using Ruby. Not the fastest language but I like it a lot and thus it makes 
 Some problems were solved in Golang, when it made sense - such as Ruby being slower than acceptable. First time this happened, I decidsed to translate the algorithm to a different language and the chat proposed to rewrite it in Golang. Then the next time it happened, I used Golang again to re-use the read file + cast to int logic.
 
 * Problem 06 - it is faster in Go
-* Problem 14 - because apparently solving a dijkstra with 250000 edges is too much for Ruby.
+* Problem 14 - I did this a lot of times until finding the correct solution, a wrong solution was done in Golang for performance reasons, did not want to go back to Ruby after designing a good algorithm
+* Problem 15 - because apparently solving a dijkstra with 250000 edges is too much for Ruby.
 
 Problem 07 was solved in Microsoft Excel and thus the folder 07 contains an XLSX file.
 
