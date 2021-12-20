@@ -25,6 +25,7 @@ Some problems were solved in Golang, when it made sense - such as Ruby being slo
 * Problem 06 - it is faster in Go
 * Problem 14 - I did this a lot of times until finding the correct solution, a wrong solution was done in Golang for performance reasons, did not want to go back to Ruby after designing a good algorithm
 * Problem 15 - because apparently solving a dijkstra with 250000 edges is too much for Ruby.
+* Problem 19 - because I don't want to optimize the solution, so at least this is faster I think
 
 Problem 07 was solved in Microsoft Excel and thus the folder 07 contains an XLSX file.
 
